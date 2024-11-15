@@ -1,0 +1,44 @@
+.top-navbar {
+  width: auto;
+  height: 70px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 0px 0px 15px 15px;
+  filter: drop-shadow(0px 5px 5px #949494);
+}
+
+.menu-list {
+  font-size: 15px;
+  display: flex;
+  gap: 1rem;
+  justify-content: right;
+  align-items: center;
+  position: relative;
+  text-align: center;
+  padding: 23px 35px 0px 0px;
+  margin: 0;
+}
+
+.nav-item {
+  width: 120px;
+  height: 30px;
+  align-content: center;
+  border-radius: 5px;
+}
+
+.nav-item:hover {
+  background-color: rgba(197, 193, 193, 0.438);
+  cursor: pointer;
+  width: 120px;
+  height: 30px;
+  align-content: center;
+  border-radius: 5px;
+}
+
+.imglogo {
+  height: 100px;
+  width: 160px;
+  position: absolute;
+  top: -15px;
+  margin: 0;
+  padding: 0;
+}
