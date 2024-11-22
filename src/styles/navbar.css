@@ -1,5 +1,6 @@
 .navname {
   position: relative;
-  color: brown;
+  color: cornflowerblue;
   left: -50px;
+  font-weight: 500;
 }
