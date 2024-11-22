@@ -3,4 +3,6 @@
   color: cornflowerblue;
   left: -50px;
   font-weight: 500;
+  pointer-events: none;
 }
+
