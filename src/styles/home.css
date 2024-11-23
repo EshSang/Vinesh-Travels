@@ -1,0 +1,14 @@
+.homelogo {
+  width: 100%;
+  height: 600px;
+  filter: brightness(40%);
+}
+
+.welcometext {
+  position: absolute;
+  top: 100px;
+  width: 1000px;
+  font-size: 40px;
+  text-align: center;
+  color: rgb(220, 173, 20);
+}

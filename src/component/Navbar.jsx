@@ -9,7 +9,7 @@ function ColorSchemesExample() {
       <Navbar bg="dark" data-bs-theme="dark">
         <Container>
           <Navbar.Brand className="navname" href="#home">
-            Vinesh & Tours
+            Vinesh Tours
           </Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="#home">Home</Nav.Link>
