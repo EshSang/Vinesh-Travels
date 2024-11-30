@@ -1,7 +1,8 @@
 import React from "react";
-import Header from "./component/Header";
+// import Header from "./component/Header";
 import Navbar from "./component/Navbar";
 import Home from "./component/Home";
+import About from "./component/About";
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
       {/* <Header /> */}
       <Navbar />
       <Home />
+      <About />
     </div>
   );
 };

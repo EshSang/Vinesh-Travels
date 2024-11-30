@@ -8,10 +8,11 @@ const Home = () => {
       <div className="homelogo">
         <img src={img9} alt="Description" />
       </div>
-      <div className="welcometext">
-        <h1> Welcome to </h1>
-        <h3> Vinesh Tours </h3>
+      
+      <div>
+        <p className="welcometext"> Welcome to Vinesh Tours</p>
       </div>
+
     </div>
   );
 };
